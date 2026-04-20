@@ -1,115 +1,120 @@
 # -----------------------------
-
 # Python
-
 # -----------------------------
-
-**pycache**/
+__pycache__/
 *.py[cod]
 *$py.class
 
 # C extensions
-
 *.so
 
 # -----------------------------
-
 # Virtual Environment
-
 # -----------------------------
-
 venv/
 env/
 ENV/
 .venv/
 
 # -----------------------------
-
 # Environment Variables
-
 # -----------------------------
-
 .env
 .env.*
 
 # -----------------------------
-
 # Streamlit
+# -----------------------------
+.streamlit/
 
 # -----------------------------
-
-.streamlit/secrets.toml
-
-# -----------------------------
-
 # IDE / Editor
-
 # -----------------------------
-
 .vscode/
 .idea/
 *.swp
 *.swo
 
 # -----------------------------
-
 # OS Files
-
 # -----------------------------
-
 .DS_Store
 Thumbs.db
 
 # -----------------------------
-
 # Logs & Debug
-
 # -----------------------------
-
 *.log
 *.out
 *.err
 
 # -----------------------------
-
 # Build / Distribution
-
 # -----------------------------
-
 build/
 dist/
 *.egg-info/
 
 # -----------------------------
-
-# Jupyter Notebook (optional)
-
+# Jupyter Notebook
 # -----------------------------
-
 .ipynb_checkpoints/
 
 # -----------------------------
-
-# Audio / Generated Files (optional)
-
+# Audio / Generated Files
 # -----------------------------
-
 *.mp3
 *.wav
 
 # -----------------------------
-
 # Temporary Files
-
 # -----------------------------
-
 tmp/
 temp/
 
 # -----------------------------
-
 # Cache
+# -----------------------------
+.cache/
 
 # -----------------------------
+# ML Models / Artifacts
+# -----------------------------
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.h5
+*.pkl
+*.joblib
+*.onnx
 
-.cache/
+# -----------------------------
+# Vector Databases / Embeddings
+# -----------------------------
+chroma/
+faiss_index/
+*.faiss
+*.index
+
+# -----------------------------
+# User Uploads / Data Files
+# -----------------------------
+uploads/
+data/
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# -----------------------------
+# Testing / Coverage
+# -----------------------------
+.pytest_cache/
+.coverage
+htmlcov/
+
+# -----------------------------
+# Python Version
+# -----------------------------
+.python-version
