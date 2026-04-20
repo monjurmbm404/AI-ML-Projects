@@ -30,7 +30,7 @@ An AI-powered chatbot that allows users to upload PDF documents and ask question
 
 Watch the full explanation and live demo of the project:
 
-👉 [https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+👉 [https://youtu.be/ixrdDO0114M](https://youtu.be/ixrdDO0114M)
 
 **What the video covers:**
 
