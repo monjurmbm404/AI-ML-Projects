@@ -1,75 +1,108 @@
 # 🤖 AI-ML Projects Portfolio
 
-A curated collection of **AI, Machine Learning, and Intelligent Application projects** built with modern technologies like Python, Streamlit, and Generative AI.
+A curated collection of **AI, Machine Learning, and Intelligent Applications** focused on solving real-world problems using **Generative AI, RAG systems, and interactive web apps**.
 
-This repository showcases practical implementations of AI concepts, focusing on **real-world problem solving, automation, and productivity tools**.
+This repository demonstrates practical AI engineering skills including **LLM integration, document understanding, and intelligent automation**.
 
 ---
 
 ## 📌 Projects Overview
 
-### 📚 AIML Project 01 — Exam Helper AI
+### 📚 AI-ML Project 01 — Exam Helper AI
 
-An AI-powered study assistant that converts notes/images into:
+An AI-powered study assistant that transforms handwritten or printed notes into:
 
-- 📝 Exam-ready Bangla notes
-- ❓ MCQ quizzes
-- 🔊 Audio summaries
+- 📝 Exam-ready **Bangla structured notes**
+- ❓ **MCQ quizzes** for self-assessment
+- 🔊 **Audio summaries** for listening-based learning
 
-🔗 Project Folder:
+⚙️ Built with: Gemini API + Streamlit + gTTS
+
+🔗 Folder:
 `AI-ML-Project 01 Exam Helper AI`
+
+---
+
+### 📄 AI-ML Project 02 — PDF RAG Chatbot
+
+A Retrieval-Augmented Generation (RAG) chatbot that allows users to:
+
+- 📄 Upload PDF documents
+- 🔍 Retrieve relevant content using embeddings
+- 💬 Ask questions and get **context-based answers**
+
+⚙️ Built with: Sentence Transformers + Streamlit + Groq/Gemini API
+
+🔗 Folder:
+`AI-ML-Project 02 PDF RAG Chatbot`
 
 ---
 
 ## 🎯 Goals of This Repository
 
-- Build real-world **AI-powered applications**
-- Practice **problem-solving using ML & Generative AI**
+- Build **real-world AI applications**, not just models
+- Apply **LLMs + RAG + embeddings** in practical systems
 - Strengthen skills in **Python, APIs, and system design**
-- Create a strong **developer portfolio**
+- Create a strong **portfolio for internships/jobs**
 
 ---
 
 ## 🧠 Tech Stack
 
 - **Python**
-- **Streamlit**
+- **Streamlit (UI Development)**
 - **Google Gemini API**
-- **Machine Learning (upcoming projects)**
-- **Data Processing & Automation**
+- **Groq / OpenAI-compatible APIs**
+- **Sentence Transformers (Embeddings)**
+- **NumPy & Data Processing**
+- **Text-to-Speech (gTTS)**
 
 ---
 
 ## 📁 Repository Structure
 
-```id="jkbhs9"
+```
 AI-ML-Projects/
 ├── AI-ML-Project 01 Exam Helper AI/
 │   ├── app.py
 │   ├── api_calling.py
 │   └── ...
-├── (Upcoming Projects)
+├── AI-ML-Project 02 PDF RAG Chatbot/
+│   ├── app.py
+│   ├── rag_logic.py
+│   └── ...
 ```
 
 ---
 
 ## 🚀 Upcoming Projects
 
-- 📊 AI Data Analyzer
-- 🤖 Chatbot with Memory
-- 🧾 Resume Analyzer AI
+- 📊 AI Data Analyzer (auto insights from datasets)
+- 🤖 Chatbot with Memory (long-term conversation)
+- 🧾 Resume Analyzer AI (ATS-style feedback)
 - 🎯 Recommendation System
-- 🧠 ML Model Projects (Regression, Classification, etc.)
+- 🧠 Core ML Projects (Regression, Classification, Clustering)
 
 ---
 
 ## 💡 Why This Repository?
 
-This repository is designed to:
+This portfolio focuses on **applied AI engineering**, not just theory.
 
-- Demonstrate **hands-on AI development skills**
-- Show ability to integrate **APIs, UI, and backend logic**
-- Build **useful tools**, not just theoretical models
+It demonstrates the ability to:
+
+- Integrate **LLMs with real applications**
+- Build **end-to-end systems (UI + backend + AI)**
+- Solve **practical problems** using modern AI tools
+
+---
+
+## 📈 What Makes These Projects Valuable?
+
+- Real-world use cases (education + document intelligence)
+- Hands-on implementation of **RAG architecture**
+- Multi-modal input handling (image + text)
+- Focus on **usability, not just models**
 
 ---
 

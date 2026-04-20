@@ -1,4 +1,4 @@
-# 📚 AIML Project 01 — Exam Helper AI
+# 📚 AI-ML-Project 01 — Exam Helper AI
 
 An AI-powered study assistant that converts uploaded notes/images into **exam-ready Bangla notes, MCQ quizzes, and audio summaries** using Google Gemini API and Streamlit.
 
@@ -27,7 +27,7 @@ An AI-powered study assistant that converts uploaded notes/images into **exam-re
 
 Watch the full explanation and live demo of the project:
 
-👉 https://www.youtube.com/watch?v=YOUR_VIDEO_ID
+👉 https://youtu.be/8xYvQFYTALM
 
 **What the video covers:**
 
