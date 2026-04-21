@@ -30,7 +30,7 @@ Here’s the updated section with a demo link added 👇
 
 Watch the full demo and explanation of the project:
 
-👉 [https://youtu.be/YOUR_VIDEO_LINK_HERE](https://youtu.be/YOUR_VIDEO_LINK_HERE)
+👉 [https://youtube.com/shorts/mlR4ujXphpU](https://youtube.com/shorts/mlR4ujXphpU)
 
 **What the video covers:**
 
