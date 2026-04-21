@@ -1,12 +1,14 @@
 # 🤖 AI-ML Projects Portfolio
 
-A curated collection of **AI, Machine Learning, and Intelligent Applications** focused on solving real-world problems using **Generative AI, RAG systems, and interactive web apps**.
+A curated collection of **AI, Machine Learning, and Intelligent Applications** focused on solving real-world problems using **Generative AI, RAG systems, and multimodal intelligence**.
 
-This repository demonstrates practical AI engineering skills including **LLM integration, document understanding, and intelligent automation**.
+This repository demonstrates practical AI engineering skills including **LLM integration, vision-based reasoning, document understanding, and intelligent automation systems**.
 
 ---
 
 ## 📌 Projects Overview
+
+---
 
 ### 📚 AI-ML Project 01 — Exam Helper AI
 
@@ -29,7 +31,7 @@ A Retrieval-Augmented Generation (RAG) chatbot that allows users to:
 
 - 📄 Upload PDF documents
 - 🔍 Retrieve relevant content using embeddings
-- 💬 Ask questions and get **context-based answers**
+- 💬 Ask questions and get **context-aware answers**
 
 ⚙️ Built with: Sentence Transformers + Streamlit + Groq/Gemini API
 
@@ -38,10 +40,26 @@ A Retrieval-Augmented Generation (RAG) chatbot that allows users to:
 
 ---
 
+### 🐞 AI-ML Project 03 — AI Code Debugger
+
+An AI-powered debugging assistant that analyzes **code error screenshots** and provides intelligent feedback:
+
+- 📸 Upload **error screenshots** (IDE / terminal / browser)
+- 🧠 Detect and explain bugs automatically
+- 💡 **Hints Mode** for guided learning
+- 🛠️ **Solution Mode** with fixed code and explanation
+
+⚙️ Built with: Gemini Vision API + Streamlit + PIL
+
+🔗 Folder:
+`AI-ML-Project 03 AI Code Debugger`
+
+---
+
 ## 🎯 Goals of This Repository
 
 - Build **real-world AI applications**, not just models
-- Apply **LLMs + RAG + embeddings** in practical systems
+- Apply **LLMs + RAG + Vision AI** in practical systems
 - Strengthen skills in **Python, APIs, and system design**
 - Create a strong **portfolio for internships/jobs**
 
@@ -51,11 +69,12 @@ A Retrieval-Augmented Generation (RAG) chatbot that allows users to:
 
 - **Python**
 - **Streamlit (UI Development)**
-- **Google Gemini API**
+- **Google Gemini API (Text + Vision)**
 - **Groq / OpenAI-compatible APIs**
 - **Sentence Transformers (Embeddings)**
 - **NumPy & Data Processing**
 - **Text-to-Speech (gTTS)**
+- **Pillow (Image Processing)**
 
 ---
 
@@ -70,6 +89,10 @@ AI-ML-Projects/
 ├── AI-ML-Project 02 PDF RAG Chatbot/
 │   ├── app.py
 │   ├── rag_logic.py
+│   └── ...
+├── AI-ML-Project 03 AI Code Debugger/
+│   ├── app.py
+│   ├── api_utils.py
 │   └── ...
 ```
 
@@ -91,18 +114,20 @@ This portfolio focuses on **applied AI engineering**, not just theory.
 
 It demonstrates the ability to:
 
-- Integrate **LLMs with real applications**
+- Integrate **LLMs into real-world applications**
 - Build **end-to-end systems (UI + backend + AI)**
-- Solve **practical problems** using modern AI tools
+- Work with **multimodal data (text + image + documents)**
+- Design **scalable AI pipelines (RAG, embeddings, vision)**
 
 ---
 
 ## 📈 What Makes These Projects Valuable?
 
-- Real-world use cases (education + document intelligence)
+- Real-world use cases (education + document intelligence + debugging)
 - Hands-on implementation of **RAG architecture**
-- Multi-modal input handling (image + text)
-- Focus on **usability, not just models**
+- Integration of **Vision AI (image → reasoning)**
+- Focus on **usability and user experience**
+- Strong foundation for **AI product development**
 
 ---
 
