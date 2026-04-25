@@ -99,7 +99,7 @@ AI-ML-Projects/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/monjurBakthMazumder/AI-ML-Projects.git
+git clone https://github.com/monjurmbm404/AI-ML-Projects.git
 cd "AI-ML-Projects/AI-ML-Project 02 PDF RAG Chatbot"
 ```
 
