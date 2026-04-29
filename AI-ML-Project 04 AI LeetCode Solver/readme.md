@@ -34,7 +34,8 @@ This project focuses on **learning + problem solving**, not just giving answers.
 
 Watch the full demo and explanation of the project:
 
-👉 [https://your-video-link-here](https://your-video-link-here)
+👉 [https://youtube.com/shorts/cDdLSeD4f5w](https://youtube.com/shorts/cDdLSeD4f5w)
+
 
 ### 📌 What the video covers:
 
